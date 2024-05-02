@@ -14,7 +14,8 @@ public class CastingMain6 {
     private static void call(Parent parent) {
         parent.parentMethod();
         // child 인스턴스인 경우 childMethod() 실행
-        if (parent instanceof Child child) {
+        if (parent instanceof Child) {
+            Child child = (Child) parent; // 다운캐스팅
             System.out.println("Child 인스턴스 맞음");
             child.childMethod();
         } else {
