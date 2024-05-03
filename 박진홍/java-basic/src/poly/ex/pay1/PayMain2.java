@@ -21,6 +21,7 @@ public class PayMain2 {
 
             PayService payService = new PayService();
             payService.processPay(payOption, amount);
+
         }
     }
 }
