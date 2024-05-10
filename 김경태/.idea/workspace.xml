@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/oop1/MusicPlaterMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/oop1/MusicPlaterMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/oop1/MusicPlayerData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/oop1/MusicPlaterMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/oop1/MusicPlaterMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,7 @@
   "keyToString": {
     "Application.ClassStart4.executor": "Run",
     "Application.MusicPlaterMain1.executor": "Run",
+    "Application.MusicPlaterMain2.executor": "Run",
     "Application.NullMain1.executor": "Run",
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
@@ -67,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oop1" />
       <recent name="ref" />
     </key>
   </component>
