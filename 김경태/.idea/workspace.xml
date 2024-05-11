@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/oop1/trainning/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/oop1/trainning/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/ConstructMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/MemberConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/MemberInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/MethodInitMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/MethodInitMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/MethodInitMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +57,10 @@
   "keyToString": {
     "Application.AccountMain.executor": "Run",
     "Application.ClassStart4.executor": "Run",
+    "Application.ConstructMain1.executor": "Run",
+    "Application.MethodInitMain1.executor": "Run",
+    "Application.MethodInitMain2.executor": "Run",
+    "Application.MethodInitMain3.executor": "Run",
     "Application.MusicPlaterMain1.executor": "Run",
     "Application.MusicPlaterMain2.executor": "Run",
     "Application.MusicPlayerMain4.executor": "Run",
@@ -71,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
       <recent name="oop1" />
       <recent name="ref" />
     </key>
