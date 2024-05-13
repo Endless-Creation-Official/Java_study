@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/MemberDefault.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/MemberDefaultMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/ConstructMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/trainning/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/trainning/BookMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training1/MovieReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training1/MovieReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training1/MovieReviewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training1/MovieReviewMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training2/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training2/ProductOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training2/ProductOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training2/ProductOrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/construct/MemberConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/construct/MemberConstruct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/ref/refTrainning/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/ref/trainning/ProductOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/ref/refTrainning/ProductOrderMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/ref/trainning/ProductOrderMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +60,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccountMain.executor": "Run",
+    "Application.BookMain.executor": "Run",
     "Application.ClassStart4.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
+    "Application.ConstructMain2.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
     "Application.MethodInitMain1.executor": "Run",
     "Application.MethodInitMain2.executor": "Run",

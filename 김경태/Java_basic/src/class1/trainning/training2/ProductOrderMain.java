@@ -1,4 +1,4 @@
-package class1.class1Training.training2;
+package class1.trainning.training2;
 
 public class ProductOrderMain {
     public static void main(String[] args) {

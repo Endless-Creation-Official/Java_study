@@ -1,4 +1,4 @@
-package ref.refTrainning;
+package class1.trainning.training2;
 
 public class ProductOrder {
     String productName;

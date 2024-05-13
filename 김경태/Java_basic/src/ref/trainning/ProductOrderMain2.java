@@ -1,4 +1,4 @@
-package ref.refTrainning;
+package ref.trainning;
 
 import java.util.Scanner;
 

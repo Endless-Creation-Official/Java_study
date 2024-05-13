@@ -1,4 +1,4 @@
-package class1.class1Training.training1;
+package class1.trainning.training1;
 
 public class MovieReviewMain {
     public static void main(String[] args) {
