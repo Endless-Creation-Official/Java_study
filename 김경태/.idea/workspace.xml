@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/pack/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/pack/PackageMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/pack/a/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/a/PublicClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/a/PublicClassInnerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/construct/trainning/BookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/construct/trainning/BookMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccessInnnerMain.executor": "Run",
     "Application.AccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.ClassStart4.executor": "Run",
@@ -69,8 +68,12 @@
     "Application.NullMain3.executor": "Run",
     "Application.NullMain4.executor": "Run",
     "Application.PackageMain1.executor": "Run",
+    "Application.PackageMain2.executor": "Run",
+    "Application.PackageMain3.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
+    "Application.PublicClassInnerMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
+    "Application.SpeakerMain.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,6 +84,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pack" />
       <recent name="construct" />
       <recent name="oop1" />
       <recent name="ref" />
