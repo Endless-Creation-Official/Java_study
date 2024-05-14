@@ -9,6 +9,4 @@ public class BookMain {
         Book book3 = new Book("JPA 프르그래밍", "Kim", 700);
         book3.displayInfo();
     }
-
-
 }
