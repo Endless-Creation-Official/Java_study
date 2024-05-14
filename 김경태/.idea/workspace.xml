@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/SpeakerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/a/AccessData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/a/AccessInnnerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -50,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccessInnnerMain.executor": "Run",
     "Application.AccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.ClassStart4.executor": "Run",
