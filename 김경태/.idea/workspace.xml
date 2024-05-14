@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/ConstructMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/trainning/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/construct/trainning/BookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/pack/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/pack/PackageMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/pack/a/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training1/MovieReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training1/MovieReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training1/MovieReviewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training1/MovieReviewMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training2/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training2/ProductOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/class1/class1Training/training2/ProductOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/class1/trainning/training2/ProductOrderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/construct/MemberConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/construct/MemberConstruct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ref/refTrainning/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/ref/trainning/ProductOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ref/refTrainning/ProductOrderMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/ref/trainning/ProductOrderMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/construct/trainning/BookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/construct/trainning/BookMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -75,6 +68,7 @@
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
     "Application.NullMain4.executor": "Run",
+    "Application.PackageMain1.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
