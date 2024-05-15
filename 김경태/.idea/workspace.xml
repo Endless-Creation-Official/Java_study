@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/BankAccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/trainning/CounterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/access/trainning/MaxCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -57,6 +57,7 @@
     "Application.ClassStart4.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
+    "Application.CounterMain.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
     "Application.MethodInitMain1.executor": "Run",
     "Application.MethodInitMain2.executor": "Run",
@@ -79,6 +80,7 @@
     "Application.ValueObjectMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/kimgt/study/Java_study/김경태"
   }
