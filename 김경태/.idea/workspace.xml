@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/static2/DecoMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/static2/DecoMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/static2/DecoUtill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/static2/DecoUtill2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/static2/DecoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/static2/DecoDataMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -63,6 +61,7 @@
     "Application.DataCountMain1.executor": "Run",
     "Application.DataCountMain2.executor": "Run",
     "Application.DataCountMain3.executor": "Run",
+    "Application.DecoDataMain.executor": "Run",
     "Application.DecoMain1.executor": "Run",
     "Application.DecoMain2.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
@@ -97,11 +96,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="static2" />
       <recent name="static1" />
       <recent name="pack" />
       <recent name="construct" />
       <recent name="oop1" />
-      <recent name="ref" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
