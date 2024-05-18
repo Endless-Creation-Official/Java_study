@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/HydrogenCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ex1/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex1/CarMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ex1/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex1/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ex1/GasCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex1/GasCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ex2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex2/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ex2/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex2/CarMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ex2/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex2/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/ex2/GasCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex2/GasCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,11 +98,12 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kimgt/study/Java_study/김경태/Java_basic/src/extends1/ex3"
+    "last_opened_file_path": "C:/Users/kimgt/study/Java_study/김경태/Java_basic/src/extends1/ex3/overriding"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kimgt\study\Java_study\김경태\Java_basic\src\extends1\ex3\overriding" />
       <recent name="C:\Users\kimgt\study\Java_study\김경태\Java_basic\src\extends1\ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
