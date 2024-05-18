@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super1/super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/Super2Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_basic/src/extends1/ExtendsAccessMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/access/ExtendsAccessMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +92,7 @@
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.ShoopingCartMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
+    "Application.Super2Main.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.super1Main.executor": "Run",
