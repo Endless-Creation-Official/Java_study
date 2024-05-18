@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/access/childe/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/access/parent/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/overriding/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/overriding/CarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/overriding/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/GasCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/overriding/GasCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/extends1/ex3/overriding/HydrogenCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,7 @@
     "Application.DecoDataMain.executor": "Run",
     "Application.DecoMain1.executor": "Run",
     "Application.DecoMain2.executor": "Run",
+    "Application.ExtendsAccessMain.executor": "Run",
     "Application.FinalFieldMain.executor": "Debug",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
