@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/super2/Super2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/ShopMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -91,6 +92,7 @@
     "Application.PublicClassInnerMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.ShoopingCartMain.executor": "Run",
+    "Application.ShopMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
     "Application.Super2Main.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
