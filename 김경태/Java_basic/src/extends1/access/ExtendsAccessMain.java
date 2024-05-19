@@ -1,4 +1,4 @@
-package extends1;
+package extends1.access;
 
 import extends1.access.childe.Child;
 
