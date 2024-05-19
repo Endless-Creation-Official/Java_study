@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/extends1/trainning/ShopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/PolyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -58,6 +59,8 @@
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.CarMain.executor": "Run",
+    "Application.CastingMain1.executor": "Run",
+    "Application.CastingMain2.executor": "Run",
     "Application.ClassStart4.executor": "Run",
     "Application.ConstMain1.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
@@ -88,6 +91,7 @@
     "Application.PackageMain1.executor": "Run",
     "Application.PackageMain2.executor": "Run",
     "Application.PackageMain3.executor": "Run",
+    "Application.PolyMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.PublicClassInnerMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
@@ -111,11 +115,11 @@
       <recent name="C:\Users\kimgt\study\Java_study\김경태\Java_basic\src\extends1\ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly" />
       <recent name="static2" />
       <recent name="static1" />
       <recent name="pack" />
       <recent name="construct" />
-      <recent name="oop1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
