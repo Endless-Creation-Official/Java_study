@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -57,6 +58,8 @@
     "Application.CastingMain.executor": "Run",
     "Application.CastingMain1.executor": "Run",
     "Application.CastingMain2.executor": "Run",
+    "Application.CastingMain5.executor": "Run",
+    "Application.CastingMain6.executor": "Run",
     "Application.ClassStart4.executor": "Run",
     "Application.ConstMain1.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
