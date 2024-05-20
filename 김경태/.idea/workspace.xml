@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/basic/CastingMain6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/overriding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/overriding/OverridingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/overriding/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -87,6 +88,7 @@
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
     "Application.NullMain4.executor": "Run",
+    "Application.OverridingMain.executor": "Run",
     "Application.PackageMain1.executor": "Run",
     "Application.PackageMain2.executor": "Run",
     "Application.PackageMain3.executor": "Run",
