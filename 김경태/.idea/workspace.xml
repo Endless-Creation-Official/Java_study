@@ -5,30 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/diamond/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/diamond/DiamondMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/diamond/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/diamond/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex2/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex3/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex3/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex3/HelloAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex4/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex4/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex4/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex4/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex4/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex5/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex5/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex5/IntercaceAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex5/InterfaceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/SoundFlyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +107,7 @@
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.ShoopingCartMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
+    "Application.SoundFlyMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
     "Application.Super2Main.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
