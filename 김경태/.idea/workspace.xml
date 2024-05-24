@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car0/CarMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car0/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car0/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car0/Model3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car1/CarMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car1/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car1/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car1/Model3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/car1/NewCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/FacebookSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/SendMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/SmSender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -112,6 +107,7 @@
     "Application.ProductOrderMain2.executor": "Run",
     "Application.PublicClassInnerMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
+    "Application.SendMain.executor": "Run",
     "Application.ShoopingCartMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
     "Application.SoundFlyMain.executor": "Run",
