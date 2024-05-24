@@ -1,4 +1,5 @@
-package 최강.access.ex;
+package access.ex;
+
 public class ShoppingCartMain {
     public static void main(String[] args) {
         ShoppingCart cart = new ShoppingCart();
@@ -10,5 +11,6 @@ public class ShoppingCartMain {
         cart.addItem(item2);
 
         cart.displayItems();
+
     }
 }
