@@ -1,4 +1,4 @@
-package poly.trainning1;
+package poly.training1;
 
 public class SmSender implements Sender{
     @Override
