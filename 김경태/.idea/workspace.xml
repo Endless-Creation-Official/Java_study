@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c391512-469b-4fd0-9374-9bff853cc513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/ex6/SoundFlyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/training2/DefaultPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/training2/KakaoPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/training2/NaverPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/training2/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/training2/PayMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/training2/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_basic/src/poly/training2/payStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/poly/training1/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/FacebookSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/poly/training1/FacebookSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/SendMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/poly/training1/SendMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/poly/training1/Sender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_basic/src/poly/trainning1/SmSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_basic/src/poly/training1/SmSender.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +70,8 @@
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.CarMain.executor": "Run",
+    "Application.CarMain0.executor": "Run",
+    "Application.CarMain1.executor": "Run",
     "Application.CastingMain.executor": "Run",
     "Application.CastingMain1.executor": "Run",
     "Application.CastingMain2.executor": "Run",
@@ -101,10 +110,12 @@
     "Application.PackageMain1.executor": "Run",
     "Application.PackageMain2.executor": "Run",
     "Application.PackageMain3.executor": "Run",
+    "Application.PayMain0.executor": "Run",
     "Application.PolyMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.PublicClassInnerMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
+    "Application.SendMain.executor": "Run",
     "Application.ShoopingCartMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
     "Application.SoundFlyMain.executor": "Run",
@@ -127,12 +138,32 @@
       <recent name="C:\Users\kimgt\study\Java_study\김경태\Java_basic\src\extends1\ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.car0" />
       <recent name="poly.diamond" />
       <recent name="poly.ex2" />
       <recent name="poly.basic" />
       <recent name="poly" />
-      <recent name="static2" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PayMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.training2.PayMain0" />
+      <module name="김경태" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poly.training2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PayMain0" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -156,6 +187,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Java_basic/src/poly/training2/PayMain0.java</url>
+          <line>3</line>
+          <properties class="poly.training2.PayMain0" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
