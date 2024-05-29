@@ -20,12 +20,12 @@ public class AnimalSoundMain {
 
         // 중복제거 시도
         soundCow(cow);
-        Cow[] animals = {cat, dog, cow}; //컴파일 오류 서로 다른 타입
+        // Cow[] animals = {cat, dog, cow}; //컴파일 오류 서로 다른 타입
         System.out.println("동물 소리 테스트 시작");
-        for (Cow animal : animals) {
+        /*for (Cow animal : animals) {
             animal.sound();
         }
-        System.out.println("동물 소리 테스트 종료");
+        System.out.println("동물 소리 테스트 종료");*/
     }
     // 메서드로 중복 제거 시도
     public static void soundCow(Cow cow) {
