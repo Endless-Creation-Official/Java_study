@@ -9,5 +9,6 @@ public class CastingMain3 {
         parent1.parentMethod();
         parent2.parentMethod();
 
+        // 깃 병합 테스트
     }
 }
