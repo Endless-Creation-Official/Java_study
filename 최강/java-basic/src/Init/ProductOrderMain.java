@@ -13,7 +13,7 @@ public class ProductOrderMain {
 
     }
 
-    static ProductOrder createOrder(String productName, int price, int quantity) {
+    public static ProductOrder createOrder(String productName, int price, int quantity) {
         ProductOrder product = new ProductOrder();
         product.productName = productName;
         product.price = price;
