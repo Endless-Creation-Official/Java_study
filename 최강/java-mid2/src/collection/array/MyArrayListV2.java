@@ -1,21 +1,18 @@
 package collection.array;
 
-import javax.swing.plaf.PanelUI;
-import javax.swing.plaf.SplitPaneUI;
-import java.lang.ref.PhantomReference;
 import java.util.Arrays;
 
-public class MyArrayListV1 {
+public class MyArrayListV2 {
     private static final int DEFAULT_CAPACITY = 5;
 
     private Object[] elementData;
     private int size = 0;
 
-    public MyArrayListV1() {
+    public MyArrayListV2() {
         elementData = new Object[DEFAULT_CAPACITY];
     }
 
-    public MyArrayListV1(int initialCapacity) {
+    public MyArrayListV2(int initialCapacity) {
         elementData = new Object[initialCapacity];
     }
 
@@ -24,8 +21,26 @@ public class MyArrayListV1 {
     }
 
     public void add(Object obj) {
+        // 추가
+        if (size == elementData.length) {
+            grow();
+        }
         elementData[size] = obj;
         size++;
+    }
+
+    //코드 추가
+    public void grow() {
+        int oldCapacity = elementData.length;
+        int newCapacity = oldCapacity * 2;
+
+        // 배열을 만들고, 기존 배열을 새로운 배열에 복사
+      /*  Object[] newArr = new Object[newCapacity]; // 배열의 크기 설정
+        for (int i = 0; i < elementData.length; i++) {
+            newArr[i] = elementData[i];
+        }
+        */
+        elementData = Arrays.copyOf(elementData, newCapacity);
     }
 
     public Object get(int index) {
