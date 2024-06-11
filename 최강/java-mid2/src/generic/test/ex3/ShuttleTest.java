@@ -18,5 +18,9 @@ public class ShuttleTest {
         Shuttle<Zealot> zealotShuttle = new Shuttle<>();
         zealotShuttle.in(new Zealot("질럿1", 100));
         zealotShuttle.showInfo();
+
+        Shuttle1<Marine> marineShuttle1 = new Shuttle1<>();
+        marineShuttle1.in(new Marine("마아린", 1));
+        marineShuttle1.showInfo();
     }
 }
