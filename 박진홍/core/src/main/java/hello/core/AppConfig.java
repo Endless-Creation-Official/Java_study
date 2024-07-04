@@ -29,7 +29,7 @@ public class AppConfig {
     }
 
     @Bean
-    public MemoryMemberRepository memberRepository() {
+    public MemberRepository memberRepository() {
         // 1번
         System.out.println("call AppConfig.memberRepository");
         return new MemoryMemberRepository();
