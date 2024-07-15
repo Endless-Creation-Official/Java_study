@@ -13,10 +13,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 
-@Configuration
-// 제어 권한을 모두 appconfig가 갖는다.
-public class AppConfig {
 
+// 제어 권한을 모두 appconfig가 갖는다.
+@Configuration
+public class AppConfig {
     // @Bean memberService -> new MemoryMemberRepository()
     // @Bean orderService -> new MemoryMemberRepository()
 
@@ -47,5 +47,4 @@ public class AppConfig {
         // return new FixDiscountPolicy();
         return new RateDiscountPolicy();
     }
-
 }

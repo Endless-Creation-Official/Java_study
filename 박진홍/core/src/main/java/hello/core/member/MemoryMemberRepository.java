@@ -1,5 +1,6 @@
 package hello.core.member;
 
+import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;

@@ -4,7 +4,6 @@ import hello.core.member.MemberRepository;
 import hello.core.member.MemoryMemberRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.ComponentScan.Filter;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.FilterType;
 
@@ -33,16 +32,14 @@ import org.springframework.context.annotation.FilterType;
 */
 
         // 이런 오류가 뜨는데 왜 그런건지? 분명히 아래에서 Filter로 Configuration 제외시켰는데?
-        excludeFilters = @Filter(type = FilterType.ANNOTATION, classes = Configuration.class)
+        excludeFilters = @ComponentScan.Filter(type = FilterType.ANNOTATION,
+                classes = Configuration.class)
+        // excludeFilters = @ComponentScan.Filter(type = FilterType.ASSIGNABLE_TYPE, classes = AppConfig.class)
 )
-
 public class AutoAppConfig {
 
-// 자동 빈 vs 수동 빈 등록 충돌
-/*
-    @Bean(name = "memoryMemberRepository")
+/*    @Bean(name = "MemoryMemberRepository")
     public MemberRepository memberRepository() {
         return new MemoryMemberRepository();
-    }
-*/
+    }*/
 }
