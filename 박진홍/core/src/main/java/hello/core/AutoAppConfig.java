@@ -32,6 +32,8 @@ import org.springframework.context.annotation.FilterType;
 */
 
         // 이런 오류가 뜨는데 왜 그런건지? 분명히 아래에서 Filter로 Configuration 제외시켰는데?
+        // 이유 : ComponentScan이 중복 적용된 경우 excludeFilter가 동작하지 않는다.
+        // 그런데 SpringBootApplication 내부에는 @ComponentScan 코드가 있기 때문에 동작 X
         excludeFilters = @ComponentScan.Filter(type = FilterType.ANNOTATION,
                 classes = Configuration.class)
         // excludeFilters = @ComponentScan.Filter(type = FilterType.ASSIGNABLE_TYPE, classes = AppConfig.class)

@@ -1,5 +1,6 @@
 package hello.core.order;
 
+import hello.core.annotation.MainDiscountPolicy;
 import hello.core.discount.DiscountPolicy;
 import hello.core.discount.FixDiscountPolicy;
 import hello.core.discount.RateDiscountPolicy;
@@ -8,10 +9,11 @@ import hello.core.member.MemberRepository;
 import hello.core.member.MemoryMemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
-public class OrderServiceImpl implements OrderService{
+public class OrderServiceImpl implements OrderService {
 
     //private final DiscountPolicy discountPolicy = new FixDiscountPolicy();
     //private final DiscountPolicy discountPolicy = new RateDiscountPolicy();
@@ -19,11 +21,16 @@ public class OrderServiceImpl implements OrderService{
     private final MemberRepository memberRepository; //  = new MemoryMemberRepository();
     private final DiscountPolicy discountPolicy;
 
+
     // 롬복 라이브러리를 이용하여 생성자 자동 생성
     @Autowired // 중요!: 생성자가 딱 1개만 있으면 생략 가능 (스프링 빈에만 해당)
-    public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy rateDiscountPolicy) {
+    public OrderServiceImpl(
+            MemberRepository memberRepository,
+            @Qualifier("rateDiscountPolicy") DiscountPolicy discountPolicy
+    ) {
         this.memberRepository = memberRepository;
-        this.discountPolicy = rateDiscountPolicy;
+        this.discountPolicy = discountPolicy;
+        // 이렇게 필드 명을 매칭해줘도 NoUniqueBeanDefinitionException이 터지는데?
     }
 
     @Override
